@@ -35,6 +35,8 @@ are as follows:
 - [Body-parser.js](https://github.com/expressjs/body-parser) 
 - [Cors.js](https://github.com/expressjs/cors) 
 
+## How to use app
+
 You can take the app for a test drive by going to https://notify-2018.herokuapp.com/ you need to sign up for an 
 account. Once you register, you will be assigned as a parent user. To make notifications, you will
 need to add at least one child to your account. 
